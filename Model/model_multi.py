@@ -140,7 +140,7 @@ def evaluate(data_name, val_output, test_labels, val, topk=(1, 2, 3, 4, 5,)):
     print()
 
 
-class DiseasesPredictor:
+class GraphModel:
     def __init__(self, feat_data, b_labels, m_labels, labels, adj_lists, feature_dim,
                  train_enc_num, train_enc_dim, train_sample_num,
                  train, test,
