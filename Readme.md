@@ -26,7 +26,7 @@ To prepare the data for the disease prediction model, you can find the required 
 To do this, you should locate the code in the outputs.ipynb file that loads the dataset and modify the path argument to point to the new dataset. Specifically, the code for loading the dataset is located in the following line:
 
 ```sh
-node_list, node_attr, labels, adj_lists, train, test = load_dataset("./data/graph_data/191210/graph-P-191210-00")
+list_of_nodes, attributes, labels, adjacency_list, train_set, test_set = load_dataset("./data/graph_data/191210/graph-P-191210-00")
 
 ```
 
