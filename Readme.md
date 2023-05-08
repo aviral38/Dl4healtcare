@@ -13,7 +13,6 @@ This project uses a Graph Convolutional Network (GCN) to predict the likelihood 
 ## Clone the repository
 ```sh
 git clone https://github.com/aviral38/Dl4healtcare.git
-cd disease_prediction_via_GCN
 ```
 ## Install required packages
 ```sh
