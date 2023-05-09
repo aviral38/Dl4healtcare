@@ -1,4 +1,3 @@
-
 ## _Disease Prediction via GCN (Graph Neural Networks)_
 
 
@@ -63,5 +62,9 @@ By comparing the precision, f1, and recall scores for each model at different va
 * The code for the GCN model was adapted from [Z. Sun, H. Yin, H. Chen, T. Chen, L. Cui and F. Yang] of the "Disease Prediction via Graph Neural Networks".
 * The data used in this project is Human Phenotype Ontology (HPO) dataset. The Human Phenotype Ontology (HPO) is widely used in clinical genomics research, rare disease diagnosis, drug discovery, and precision medicine. The dataset is available for download from
 the HPO website or can be accessed via APIs
+
+
+
+
 
 
