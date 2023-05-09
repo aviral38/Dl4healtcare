@@ -6,6 +6,9 @@
 
 This project uses a Graph Convolutional Network (GCN) to predict the likelihood of a patient having a particular disease. The model is trained on a graph representation of patient data, where nodes represent patients and edges represent similarities between patients. The project is implemented in Python and requires PyTorch, scikit-learn, Selenium, Python version 3.7 or higher, and NetworkX to run.
 
+Project summary ipynb (For Extra Credit) - **report_summary.ipynb**
+outputs and evaluation of models - **outputs.ipynb**
+
 
 
 ## Installation
